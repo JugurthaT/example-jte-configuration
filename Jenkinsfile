@@ -1,5 +1,5 @@
 unit_test()
 build()
 static_code_analysis()
-GetProjectID()
+//GetProjectID() works only with maven
 log.info ('Starting')

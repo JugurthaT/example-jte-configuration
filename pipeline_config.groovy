@@ -8,4 +8,5 @@ libraries{
   merge = true 
   sonarqube
   vars
+  docker
 }

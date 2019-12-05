@@ -5,6 +5,7 @@
 				build()
 				static_code_analysis()
 clean()
+test_declarative()
 				//GetProjectID() works only with maven
 
 
